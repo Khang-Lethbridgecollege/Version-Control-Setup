@@ -1,6 +1,8 @@
-# Version Control Setup
+# Name
+Version Control Setup
 ---
-The project aims to improve performance issues, increase game sustainability over time by eliminating trash from code snippets, making the game run efficiently.
+# Project Description
+The project aims to improve performance issues, increase game sustainability over time by eliminating trash from code snippets, making the game run efficiently. The project bases on C#.
 
 # Project Requirements
 No trampolines or lights removed, balls spawn every 0.5 seconds, picking up and throwing ball at trampoline increases score, score is visible from starting area
@@ -12,3 +14,15 @@ Instantiate/Destroy process is replaced with Object Pooling
 Variables are stored when there is a change, rather than updating every frame (use update as little as possible)
 Poor performing code options are replaced with higher performing options
 4x or 8x MSAA is turn on
+
+# Usage
+The game meets the standards of frame and sustainability
+
+# Author and Acknowledgment
+Made by Khang
+
+# Support
+contact the author: khang.tran@lethbridgecollege.ca
+
+# Project Status
+The project was in a completed state
